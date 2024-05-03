@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @garlingz
+- 👋 Hi, I’m @garlingz/Zach
 <!--- 👀 I’m interested in ... --->
 - 🌱 I’m currently learning a bunch of Python libraries like Beautiful Soup, Scikit-Learn, TensorFlow and Kivy.
 - 🚧 My currenty projects are:
