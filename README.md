@@ -4,6 +4,7 @@
 - 🚧 My currenty projects are:
    * [Onsight-Running-Order](https://github.com/garlingz/Onsight-Running-Order) - A stand alone GUI/exe application for creating running orders, scoring, and timing for onsight style climbing competitions.
    * [Income EDA](https://github.com/garlingz/Income-EDA) - Understanding machine learning and exploring data visualization to comprehend the dataset.
+   * [Kaggle EDA's](https://www.kaggle.com/zachgarlinghouse/code) - Learning and Understanding how to use Machine Learning in various applications.
 - 📫 How to reach me zach.garlinghouse@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have worked in the rock climbing industry for 10 years!
