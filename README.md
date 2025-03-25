@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @garlingz/Zach
 <!--- 👀 I’m interested in ... --->
-- 🌱 I’m currently learning a bunch of Python libraries like Beautiful Soup, Scikit-Learn, TensorFlow and Kivy.
+<!--- - 🌱 I’m currently learning a bunch of Python libraries like Beautiful Soup, Scikit-Learn, TensorFlow and Kivy. --->
 - 🚧 My currenty projects are:
-   * RO_app - A stand alone GUI/exe application for creating running orders for onsight climbing competitions.
-   * predicting_weather - Understanding machine learning and how to use TensorFlow's LSTM model to make temperature predictions for 2024.
-   * Circuits - Developing a climb tracker for Bouldering Project. Learning to use SQL and Kivy.
+   * [Onsight-Running-Order](https://github.com/garlingz/Onsight-Running-Order) - A stand alone GUI/exe application for creating running orders, scoring, and timing for onsight style climbing competitions.
+   * [Income EDA](https://github.com/garlingz/Income-EDA) - Understanding machine learning and exploring data visualization to comprehend the dataset.
 - 📫 How to reach me zach.garlinghouse@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was at one point a semi-pro rock climber.
+- ⚡ Fun fact: I have worked in the rock climbing industry for 10 years!
 
 <!---
 garlingz/garlingz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
