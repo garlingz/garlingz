@@ -10,10 +10,8 @@
     😄 Pronouns: He/Him
     ⚡ Fun fact: I have worked in the rock climbing industry for 10 years!
 
-
-
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-garlinghouse/) 
+# 💡Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garlingz&repo=Onsight-Running-Order)](https://github.com/garlingz/Onsight-Running-Order)
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -22,7 +20,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=garlingz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=garlingz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-garlinghouse/) 
 
-#### Profile made using [Vercel's GitHub Profile Maker](https://github-profile-maker.vercel.app/)
+
+
+#### Profile made using [Vercel GitHub Profile Maker](https://github-profile-maker.vercel.app/)
 ---
 [![](https://visitcount.itsvg.in/api?id=garlingz&icon=0&color=0)](https://visitcount.itsvg.in)
